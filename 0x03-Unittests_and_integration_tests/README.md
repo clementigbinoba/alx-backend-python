@@ -1,5 +1,4 @@
-# Unittests and Integration Tests
-
+# Unittests and Integration Test
 This project contains tasks for learning to write unittests and integration tests in Python 3.
 
 ## Required Modules
@@ -8,7 +7,7 @@ This project contains tasks for learning to write unittests and integration test
 
 ## Tasks To Complete
 
-+ [x] 0. **Parameterize a unit test**<br/>[test_utils.py](test_utils.py) contains a python module that meets the following requirements:
++ [x] 0. **Parameterize a unit test**<br/>[test_utils.py](test_utils.py) contain a python module that meets the following requirements:
   + Familiarize yourself with the `utils.access_nested_map` function and understand its purpose. Play with it in the Python console to make sure you understand.
   + In this task you will write the first unit test for `utils.access_nested_map`.
   + Create a `TestAccessNestedMap` class that inherits from `unittest.TestCase`.
